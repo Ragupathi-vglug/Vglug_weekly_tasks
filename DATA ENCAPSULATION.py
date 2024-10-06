@@ -3,7 +3,7 @@ try:
     class university:
         def __init__(self):
             self.university_name="Annamalai University"
-            self.place="Sidhmbaram"
+            self.place="Sidhambaram"
             self.university_code="214 806"
             self.login_id="codecs183"
             self.login_pass=9013988709
