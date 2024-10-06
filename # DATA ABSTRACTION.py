@@ -1,4 +1,4 @@
-# DATA ABSTRACTION
+# DATA ENCAPSULATION
 try:
     class university:
         def __init__(self):
