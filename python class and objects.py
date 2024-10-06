@@ -7,7 +7,7 @@ class vehicle:
 cars=vehicle
 cars.tata("tata1761","navy blue","tata")
 
-#PROGRAM FOR ENCAPSULATION AND DATA ABSTRACTION
+#PROGRAM FOR ENCAPSULATION
 class cars:
     def __init__(self,car):
             self.car=car
