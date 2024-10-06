@@ -5,7 +5,7 @@ class vehicle:
         print("Color is:",color)
         print("Brand is:",brand)
 cars=vehicle
-car_model=cars.tata("tata1761","navy blue","tata")
+cars.tata("tata1761","navy blue","tata")
 
 #PROGRAM FOR ENCAPSULATION AND DATA ABSTRACTION
 class cars:
