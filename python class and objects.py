@@ -41,4 +41,4 @@ while True:
         a=input("Enter the  car name:")
         designs.borrow_car(a)
     else:
-        quit()       
+        break;    
