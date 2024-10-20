@@ -1,5 +1,5 @@
 # DATA ENCAPSULATION
-try:
+try: #try block
     class university:
         def __init__(self):
             self.university_name="Annamalai University"
